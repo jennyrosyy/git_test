@@ -1,3 +1,4 @@
 # git_test
 testing for the odin project
-"Hello Odin!" - test
+"Hello Odin!" - testgit 
+int x = 3;
